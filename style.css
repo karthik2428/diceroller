@@ -1,0 +1,42 @@
+.body{
+    background-color: #C70039 ;
+    color: #fff;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+    margin-top: 10%;
+    height: auto;
+    
+}
+.head{
+    color: #fff;
+    font-size: 50px;
+    font-weight: 700;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#diceImage img{
+    width: 100px;
+    height: 100px;
+}
+input{
+    border: 0;
+    height: 50px;
+    text-align: center;
+}
+button{
+    border: 0;
+    background-color:#00A36C;
+    color: #fff;
+    font-weight: 700;
+    font-size: 10px;
+    width: 100px;
+    height: 40px;
+}
